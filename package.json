@@ -1,13 +1,10 @@
 {
-  "name": "animais-eslint",
+  "name": "animais-fantasticos",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",
     "dev": "webpack --mode development --watch"
   },
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.24.0",
@@ -16,9 +13,7 @@
     "babel-loader": "^9.1.3",
     "eslint": "^8.57.0",
     "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-plugin-import": "^2.29.1"
-  },
-  "dependencies": {
+    "eslint-plugin-import": "^2.29.1",
     "webpack": "^5.90.3",
     "webpack-cli": "^5.1.4"
   }
