@@ -1,6 +1,6 @@
 ## Animais Fantásticos
 
-<img src="https://media.licdn.com/dms/image/D4D22AQGV-0DI9xQbBw/feedshare-shrink_2048_1536/0/1715298574051?e=1718236800&v=beta&t=ge9KTkfFld170PhgADXOWtq0bcMcBQG11UeFEZSpqrE" />
+<img src="https://media.licdn.com/dms/image/D4D22AQGrFdxi08o-Xw/feedshare-shrink_2048_1536/0/1715300053941?e=1718236800&v=beta&t=-UlYq1S6GEmDpcPU8B09cVNAVi5hX11HxfWBdr9sjEs" />
 
 ### Stack utilizada
 ***Front-end:*** HTML, CSS e JavaScript
