@@ -22,7 +22,7 @@
 ### Stack utilizada
 ***Front-end:*** HTML e CSS
 
-<a href="maahbatistaa.github.io/projects-origamid/flexblog/">
+<a href="https://maahbatistaa.github.io/projects-origamid/flexblog/">
   <img src="./assets/flexblog.png">
 </a>
 
@@ -32,7 +32,7 @@
 ### Stack utilizada
 ***Front-end:*** HTML e CSS
 
-<a href="maahbatistaa.github.io/projects-origamid/bikcraft/">
+<a href="https://maahbatistaa.github.io/projects-origamid/bikcraft/">
   <img src="./assets/bikcraft.png">
 </a>
 
