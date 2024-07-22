@@ -1,4 +1,4 @@
-## Animais Fantásticos
+## [Animais Fantásticos](./animais-fantasticos)
 
 ### Stack utilizada
 ***Front-end:*** HTML, CSS e JavaScript
@@ -7,7 +7,7 @@
   <img src="./assets/animais-fantasticos.jpeg" />
 </a>
 
-## Wildbeast
+## [Wildbeast](./wildbeast)
 
 ### Stack utilizada
 ***Front-end:*** HTML e CSS
@@ -17,7 +17,7 @@
 </a>
 
 
-## FlexBlog
+## [FlexBlog](./flexblog)
 
 ### Stack utilizada
 ***Front-end:*** HTML e CSS
@@ -27,7 +27,7 @@
 </a>
 
 
-## Bikcraft
+## [Bikcraft](./bikcraft)
 
 ### Stack utilizada
 ***Front-end:*** HTML e CSS
