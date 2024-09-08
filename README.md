@@ -4,7 +4,7 @@
 ***Front-end:*** HTML, CSS e JavaScript
 
 <a href="https://maahbatistaa.github.io/projects-origamid/animais-fantasticos/">
-  <img src="./assets/animais-fantasticos.jpeg" />
+  <img src="./assets/animais-fantasticos.png" />
 </a>
 
 ## [Wildbeast](./wildbeast)
